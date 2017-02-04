@@ -18,4 +18,4 @@ I will of course acknowledge those who contribute via issues to the text.
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>, which means you may to do whatever you like with its contents, including using it commercially, as long as you credit me as the author of the original piece and link to this repository.
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>, which means you may do whatever you like with its contents, including using it commercially, as long as you credit me as the author of the original piece and link to this repository.
