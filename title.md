@@ -1,1 +1,1 @@
-Title
+Out in the open: making the case for writing a doctoral thesis transparently
